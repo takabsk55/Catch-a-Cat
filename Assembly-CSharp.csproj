@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\BlockGenerator.cs" />
-     <Compile Include="Assets\Script\CameraFunc.cs" />
      <Compile Include="Assets\Script\CameraFunc2.cs" />
      <Compile Include="Assets\Script\Cursorlock.cs" />
      <Compile Include="Assets\Script\StageGenerator.cs" />
