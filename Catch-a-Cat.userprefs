@@ -1,8 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\CameraFunc2.cs">
     <Files>
       <File FileName="Assets\Script\Cursorlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CameraFunc.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\CameraFunc2.cs" Line="17" Column="25" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
